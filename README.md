@@ -6,8 +6,11 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Number Data Type
 - [x] Number Converstion
 - [x] Number Overflow
-- [ ] Character Data Type 
+- [x] Character Data Type 
+- [x] String Data Type
+- [x] Boolean Data Type
+- [ ] Variable
 
-> 00:57:00
+> 01:14:00
  
 Start small :dart: Go Solo :rocket:
