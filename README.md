@@ -2,9 +2,11 @@
 
 Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 Start small :dart: Go Solo :rocket:
-- Hello
-- Number Data Type
-- Number Converstion
-- Number Overflow
+
+[x] Hello 
+[x] Number Data Type
+[x] Number Converstion
+[x] Number Overflow
+[ ] Character Data Type 
 
 > 00:57:00
