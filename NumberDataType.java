@@ -1,4 +1,4 @@
-public class TypeOfNumber {
+public class NumberDataType {
     public static void main(String[] args){
 
         // Integer Number
