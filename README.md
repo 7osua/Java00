@@ -11,6 +11,8 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Boolean Data Type
 - [x] Variable
 - [x] Use "var" keyword
+- [x] use "final" keyword to initialized variable as constant
+- [x] Use Non-primitive Data Types as an Object
 
 > 01:14:00
  
