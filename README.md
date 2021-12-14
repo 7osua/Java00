@@ -13,7 +13,8 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Use "var" keyword
 - [x] use "final" keyword to initialized variable as constant
 - [x] Use Non-primitive Data Types as an Object
+- [x] Array Data Type
 
-> 01:14:00
+> 01:27:00
  
 Start small :dart: Go Solo :rocket:
