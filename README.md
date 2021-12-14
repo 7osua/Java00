@@ -9,7 +9,8 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Character Data Type 
 - [x] String Data Type
 - [x] Boolean Data Type
-- [ ] Variable
+- [x] Variable
+- [x] Use "var" keyword
 
 > 01:14:00
  
