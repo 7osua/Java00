@@ -14,9 +14,10 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] use "final" keyword to initialized variable as constant
 - [x] Use Non-primitive Data Types as an Object
 - [x] Array Data Type
-- [ ] Array Initializer
-- [ ] Create, Get, Set, Delete valur in an array
+- [x] Array Initializer
+- [x] Create, Change, Define value in an array
+- [ ] Multi Dimensial Array
 
-> 01:37:00
+> 01:40:00
  
 Start small :dart: Go Solo :rocket:
