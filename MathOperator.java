@@ -1,5 +1,6 @@
 public class MathOperator {
     public static void main(String[] args){
+        boolean isYoung = true;
         int age = 24;
         int twoYear  = 2;
         int fourYear = 4;
@@ -23,5 +24,17 @@ public class MathOperator {
 
         age %= remindOfAge;
         System.out.println(age);
+
+        // Unary Operator
+        age = 24;
+
+
+        System.out.println(++age);
+        System.out.println(--age);
+        System.out.println(-age);
+        System.out.println(+age);
+        System.out.println(isYoung);
+        System.out.println(!isYoung);
+
     }
 }
