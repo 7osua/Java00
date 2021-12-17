@@ -16,8 +16,16 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Array Data Type
 - [x] Array Initializer
 - [x] Create, Change, Define value in an array
-- [ ] Multi Dimensial Array
+- [x] Multi Dimensial Array
+- [x] Meet Nested Array in Java
+- [x] Intro Math Operator in Java
+- [x] Comparison Operator
+- [x] Boolean Operator (||, &&, !)
+- [ ] Expression in Java
+- [ ] Statement in Java
+- [ ] ```if ... else``` statement
+- [ ] etc . . .
 
-> 01:40:00
+> 02:00:00
  
 Start small :dart: Go Solo :rocket:
