@@ -28,6 +28,6 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [ ] etc . . .
 - 
 
-> 02:00:00
+> 02:05:00
  
 Start small :dart: Go Solo :rocket:
