@@ -14,6 +14,6 @@ public class BooleanOperator {
 
         System.out.println(adultAndOutsider);
         System.out.println(underAgeButOutsider);
-        System.out.println(underAgeMaleHateOutsider);
+        System.out.println(underAgeMaleButOutsider);
     }
 }

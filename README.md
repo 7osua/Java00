@@ -2,7 +2,7 @@
 
 Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 
-- [x] Hello 
+- [x] ```Hello World!``` 
 - [x] Number Data Type
 - [x] Number Converstion
 - [x] Number Overflow
@@ -20,11 +20,13 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Meet Nested Array in Java
 - [x] Intro Math Operator in Java
 - [x] Comparison Operator
-- [x] Boolean Operator (||, &&, !)
-- [ ] Expression in Java
-- [ ] Statement in Java
+- [x] Boolean Operator (```||```, ``` &&```, ```!```)
+- [x] Expression in Java
+- [x] Statement in Java
+- [x] Block code
 - [ ] ```if ... else``` statement
 - [ ] etc . . .
+- 
 
 > 02:00:00
  
