@@ -1,5 +1,8 @@
 # JAVA00 - Dasar & Refresh
 
+This is a review, getting start, up and running with <br> 
+Java Programming Language.
+
 Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 
 - [x] ```Hello World!``` 
