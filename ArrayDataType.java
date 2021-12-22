@@ -169,11 +169,11 @@ public class ArrayDataType {
         }
 
         for(byte index = 0; index < initArrOfDouble.length; index++) {
-            System.out.println(initArrOfFloat[index]);
+            System.out.println(initArrOfDouble[index]);
         }
 
         for(byte index = 0; index < initAnotherDouble.length; index++) {
-            System.out.println(initAnotherFloat[index]);
+            System.out.println(initAnotherDouble[index]);
         }
     }
 }
