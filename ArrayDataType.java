@@ -153,12 +153,12 @@ public class ArrayDataType {
         }
 
         for(byte index = 0; index < initArrOfLong.length; index++) {
-            System.out.println(initArrOfInteger[index]);
+            System.out.println(initArrOfLong[index]);
+        }
+        for(byte index = 0; index < initAnotherLong.length; index++) {
+            System.out.println(initAnotherLong[index]);
         }
 
-        for(byte index = 0; index < initAnotherLong.length; index++) {
-            System.out.println(initAnotherInteger[index]);
-        }
 
         for(byte index = 0; index < initArrOfFloat.length; index++) {
             System.out.println(initArrOfFloat[index]);

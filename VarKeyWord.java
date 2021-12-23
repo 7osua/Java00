@@ -1,16 +1,16 @@
 public class VarKeyWord {
     public static void main(String[] args){
-        var age = 23;
+        int age = 23;
         age += 1;
 
-        var firstName = "Josua";
-        var lastName = "Manullang";
-        var fullName = firstName + " " + lastName;
+        String firstName = "Josua";
+        String lastName = "Manullang";
+        String fullName = firstName + " " + lastName;
 
-        var isLikeCoding = false;
+        boolean isLikeCoding = false;
         isLikeCoding = true;
 
-        var isHe = "M";
+        char isHe = 'M';
 
 
         System.out.println("Use 'var' keyword as initialized variable :");

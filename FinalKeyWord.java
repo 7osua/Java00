@@ -1,8 +1,8 @@
 public class FinalKeyWord {
     public static void main(String[] args){
-        final var fullName = "Josua Manullang";
+        final String fullName = "Josua Manullang";
 
-        var firstName = "Josua";
+        String firstName = "Josua";
 
         System.out.println(firstName);
         firstName = "jos";

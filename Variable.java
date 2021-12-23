@@ -9,7 +9,7 @@ public class Variable {
         float height = 177.7F;
         int hexFavColor = 0x212529;
         String currentPlace = "WMX";
-        var somethingToLog = "Java + JavaScript is Awesome !!!";
+        String somethingToLog = "Java + JavaScript is Awesome !!!";
 
         System.out.print("Variable  :\n");
         System.out.println(fullName);
