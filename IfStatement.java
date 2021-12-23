@@ -1,4 +1,4 @@
-public class ifStatement {
+public class IfStatement {
     public static void main (String[] args) {
 
         String firstName = "Josua";
@@ -21,7 +21,8 @@ public class ifStatement {
             System.out.println(
                     firstName +
                     ", like to code and want to be a developer.\nBoth is true\nHere some of the word He say :\n" +
-                    someWord);
+                    someWord
+            );
         }
 
 
