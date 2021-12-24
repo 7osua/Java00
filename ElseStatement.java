@@ -1,6 +1,23 @@
 public class ElseStatement {
     public static void main (String[] args) {
-        // TODO : work for this immediaetlly!!!
-        System.out.println("Cobine if ... else ... \n Statement");
+        int ageNow = 24;
+        boolean hasMarried = false;
+        String fullName = "Josua Manullang";
+        String statusNow = fullName;
+
+        if ( ageNow >= 18 ) {
+            if ( !hasMarried ) {
+                statusNow += ", remind un-married!";
+            }
+            else {
+                statusNow += ", already married!";
+            }
+        }
+
+        else {
+            statusNow += ", an still a teenager";
+        }
+
+        System.out.println(statusNow);
     }
 }

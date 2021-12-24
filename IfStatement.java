@@ -11,12 +11,12 @@ public class IfStatement {
 
         byte valOfByte = 127;
         if (valOfByte > -128 || valOfByte < 128 ) {
-            System.out.println("Val caontaint inside the range range of byte,\nmax is up to 127\n min is down to -127");
+            System.out.println("Val caontaint inside the range range of byte,\nmax is up to 127\nmin is down to -127");
         }
 
         boolean codeAsHobby = true;
         boolean devAsLife = true;
-        String someWord = "It\'s all about solve the problem,\n Provide solution in real life. ";
+        String someWord = "It\'s all about solve the problem,\nProvide solution in real life. ";
         if(codeAsHobby && devAsLife || someWord != null || someWord != "") {
             System.out.println(
                     firstName +
@@ -24,7 +24,5 @@ public class IfStatement {
                     someWord
             );
         }
-
-
     }
 }
