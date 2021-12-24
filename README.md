@@ -27,10 +27,14 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Expression in Java
 - [x] Statement in Java
 - [x] Block code
-- [ ] ```if ... else``` statement
+- [ ] ```if ... else if ... else``` statement
+- [ ] ```switch``` statement
+- [ ] ....
+- [ ] ....
+- [ ] ....
 - [ ] etc . . .
 - 
 
-> 02:10:00
+> 02:16:00
  
 Start small :dart: Go Solo :rocket:
