@@ -13,8 +13,8 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] String Data Type
 - [x] Boolean Data Type
 - [x] Variable
-- [x] Use "var" keyword
-- [x] use "final" keyword to initialized variable as constant
+- [x] Use ```var``` keyword
+- [x] use ```final``` keyword to initialized variable as constant
 - [x] Use Non-primitive Data Types as an Object
 - [x] Array Data Type
 - [x] Array Initializer
@@ -33,7 +33,6 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [ ] ....
 - [ ] ....
 - [ ] etc . . .
-- 
 
 > 02:16:00
  
