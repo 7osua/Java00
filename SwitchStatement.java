@@ -2,7 +2,7 @@ import java.time.Clock;
 
 public class SwitchStatement {
     public static void main (String[] args) {
-        int dayByNumber = 8;
+        int dayByNumber = 7;
 
         switch(dayByNumber) {
             case 1:
@@ -30,7 +30,6 @@ public class SwitchStatement {
                 System.out.println("Hanya ada 7 hari");
                 break;
         }
-
 
         switch(dayByNumber) {
             case 1:

@@ -27,8 +27,8 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Expression in Java
 - [x] Statement in Java
 - [x] Block code
-- [ ] ```if ... else if ... else``` statement
-- [ ] ```switch``` statement
+- [x] ```if ... else if ... else``` statement
+- [x] ```switch``` statement
 - [ ] ....
 - [ ] ....
 - [ ] ....
