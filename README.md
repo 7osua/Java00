@@ -29,11 +29,11 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] Block code
 - [x] ```if ... else if ... else``` statement
 - [x] ```switch``` statement
-- [ ] ```for``` Loop in Java
-- [ ] ....
+- [x] ```for``` Loop in Java
+- [ ] ```while``` loop in Java
 - [ ] ....
 - [ ] etc . . .
 
-> 02:16:00
+> 02:39:00
  
 Start small :dart: Go Solo :rocket:
