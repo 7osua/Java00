@@ -30,11 +30,11 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] ```if ... else if ... else``` statement
 - [x] ```switch``` statement
 - [x] ```for``` Loop in Java
-- [ ] ```while``` loop in Java
-- [ ] ```do{ ... } while()``` loop in Java
-- [ ] ....
+- [x] ```while``` loop in Java
+- [x] ```do{ ... } while()``` loop in Java
+- [ ] ```break``` and ```continue```
 - [ ] etc . . .
 
-> 02:39:00
+> 02:45:00
  
 Start small :dart: Go Solo :rocket:

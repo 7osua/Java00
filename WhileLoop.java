@@ -53,7 +53,7 @@ public class WhileLoop {
             System.out.println(logToArray[counter]);
 
             ++counter;
-            if (counter == 4) charToYes = 'N';
+            charToYes = counter == 3 ? 'N' : 'Y';
         }
     }
 }
