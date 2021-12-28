@@ -31,6 +31,7 @@ Mengingat kembali materi dasar bahasa pemograman **java**. <br>
 - [x] ```switch``` statement
 - [x] ```for``` Loop in Java
 - [ ] ```while``` loop in Java
+- [ ] ```do{ ... } while()``` loop in Java
 - [ ] ....
 - [ ] etc . . .
 
